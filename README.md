@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-4dsv_viewer_macが実行できない場合
-=======
 # 4dsv_viewer_unity
 
 4次元ストリートビューのバレットタイム可視化のビューア
@@ -9,15 +6,11 @@ mac用
 unityで作成
 
 ## 4dsv_viewer_macが実行できない場合
->>>>>>> ab37e8ff90288704244c500886999ab32af89fa4
 
 ・以下のコマンドを打つ
 
 　chmod a+x 4dsv_viewer_mac.app/Contents/MacOS/*
 
-<<<<<<< HEAD
-　xattr -d com.apple.quarantine 4dsv_viewer_mac.app
-=======
 　xattr -d com.apple.quarantine 4dsv_viewer_mac.app
 
 ## 操作方法
@@ -48,4 +41,3 @@ Shift+K：前の可視化手法に変更
 マウス操作でカメラの回転が可能
 
 スライドバーで動画のフレーム移動が可能
->>>>>>> ab37e8ff90288704244c500886999ab32af89fa4
